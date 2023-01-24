@@ -99,7 +99,7 @@ var fragment = `
 	var img = new Image();
 	img.onload = () => (texture.image = img);
 	img.crossOrigin = "Anonymous";
-	img.src = "https://res.cloudinary.com/drcax6kwu/image/upload/v1674558429/wilde%20assets/Asset_35_4x_kd6n9l.png"; 
+	img.src = "https://res.cloudinary.com/drcax6kwu/image/upload/v1674558669/wilde%20assets/Asset_37_4x_nipv4j.png"; 
 	
 
 	var a1, a2;

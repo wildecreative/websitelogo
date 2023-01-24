@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2023 Rachael (https://codepen.io/wildecreative/pen/yLKWBPy)
-Fork of an original work Fluid text hover (https://codepen.io/wildecreative/pen/yLKWBPy)
+Copyright (c) 2023 Rachael (https://codepen.io/wildecreative/pen/BaPrLjV)
+Fork of an original work Fluid text hover (https://codepen.io/wildecreative/pen/BaPrLjV)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
